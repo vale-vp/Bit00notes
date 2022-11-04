@@ -3,4 +3,4 @@ El inicio de un desarrollador web
 ## Descripcion
 Este proyecto se crea con el fin de darle inicio a los nuevos desarrolladores
 # Autor
-[Valentina](karolvargas745@gmail.com)
+[Valentina](https://web.whatsapp.com/)
